@@ -71,7 +71,7 @@ We explored and cleaned the data, performed feature engineering, trained multipl
 
 ## 📁 Files Included
 
-- `Group_10_MIS_545.ipynb` – Complete Jupyter Notebook with code, outputs, and charts  
+- `Water Potability Classification.ipynb` – Complete Jupyter Notebook with code, outputs, and charts  
 
 ---
 
