@@ -10,13 +10,9 @@ This project was developed as part of an academic course in data science. The go
 
 - pH
 - Hardness
-- Solids
 - Sulfate
 - Chloramines
 - Conductivity
-- Organic Carbon
-- Trihalomethanes
-- Turbidity
 
 We explored and cleaned the data, performed feature engineering, trained multiple models, and compared their performance to determine the best-performing classifier.
 
@@ -75,7 +71,6 @@ We explored and cleaned the data, performed feature engineering, trained multipl
 
 ## 📁 Files Included
 
-- `MIS545 Group project.pptx` – Presentation summarizing the methodology and results  
 - `Group_10_MIS_545.ipynb` – Complete Jupyter Notebook with code, outputs, and charts  
 
 ---
