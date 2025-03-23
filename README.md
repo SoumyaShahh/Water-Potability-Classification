@@ -1,4 +1,4 @@
-# 💧 Water Potability Classification using Machine Learning
+# Water Potability Classification using Machine Learning
 
 This project focuses on predicting **whether water is safe to drink** based on chemical characteristics. Using a dataset with over 5K records, we applied five different machine learning models to classify water samples as **potable** or **non-potable**, using Python for analysis and model building.
 
